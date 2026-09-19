@@ -2,9 +2,11 @@
 
 Version 0.2.0 | 2026-09-19 | Author: NorEliYehShi | License: MIT
 
-Bassline is an macOS menu bar visualizer for Spotify audio. It
+Bassline is a macOS menu bar visualizer for Spotify audio. It
 renders a subtle, animated spectrum strip along the bottom of the selected
 screen.
+
+![Bassline visualizing Spotify audio](assets/bassline-demo.jpg)
 
 ## Requirements
 
